@@ -3,6 +3,8 @@
 -- git init # inicializa un proyecto, lee los archivos de la carpeta seleccionada 
 -- git add (nombre_archivo) manda un archivo al taller de trabajo 
 --- git add . # agrega todos los archivos  al taller de trabajo
+-- git commit -m (comentario)#guarda los cambios de los documento 
+-- git commit -am (comentario) es un add + un commit 
 -- git status -s , muestra el estado de los archivos en la carperta 
 -- git log --oneline # muestra sobre que linea de trabajo se ha seguido 
 -- git resete --hard (serial_linea_trabajo)# cambia la linea de trabajo 
